@@ -16,7 +16,10 @@ iframe {
        margin: auto;  /* Automatic margin from left */
 
       }
-
+#qrImg{
+     display: block;
+     margin: auto;
+}
 #jumboHead{
     color:	#000000;
     background-color:#FFFFFF;
