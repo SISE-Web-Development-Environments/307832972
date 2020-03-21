@@ -5,10 +5,17 @@ body {
 }
 
 #jumboPic{
-    background-image: url(imgs/jump2.jpg);
+    background-image: url(imgs/cyber.jpeg);
     background-size: cover;
 
 }
+iframe {
+        display: block;
+        height: 350px;
+       padding-bottom:50px;
+       margin: auto;  /* Automatic margin from left */
+
+      }
 
 #jumboHead{
     color:	#000000;
