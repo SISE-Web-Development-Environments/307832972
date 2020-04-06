@@ -38,6 +38,16 @@ body {
   color: white;
 }
 
+.pics{
+  width: 70%;
+  border-color: darkslategray;
+  border: 40px;
+}
+
+#mainDiv{
+  text-align:center;
+  padding-left:10%;
+}
 
 .circle{
 border-radius: 50%;
@@ -79,12 +89,13 @@ iframe {
 .flag{
   background-color: #343a40 !important;
 }
-/*
+
 
 #jumboPic{
-  background-color: 	#ff6aa4;
+  
+  padding-left: 10%;
 }
-*/
+
 .Heading{
     text-align:center;
     padding: 30px;
